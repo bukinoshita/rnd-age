@@ -1,0 +1,27 @@
+{
+  "name": "rnd-age",
+  "version": "0.0.0",
+  "description": "Generate a random age",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:bukinoshita/rnd-age.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rnd-date": "^0.0.1"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": true,
+    "esnext": true
+  }
+}
