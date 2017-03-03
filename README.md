@@ -2,6 +2,7 @@
 > Generate a random age
 
 [![Codeship Status for bukinoshita/rnd-age](https://app.codeship.com/projects/1e444310-df44-0134-4201-2626b392372a/status?branch=master)](https://app.codeship.com/projects/204873)
+[![Build Status](https://travis-ci.org/bukinoshita/rnd-age.svg?branch=master)](https://travis-ci.org/bukinoshita/rnd-age)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/rnd-age.svg)](https://www.npmjs.com/package/rnd-age)
 [![license](https://img.shields.io/github/license/bukinoshita/rnd-age.svg)](https://raw.githubusercontent.com/bukinoshita/rnd-age/master/LICENSE)
 
