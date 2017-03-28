@@ -23,11 +23,11 @@ rndAge(1990, 1994).then(randomAge => console.log(`John has ${randomAge} years`))
 ### rnd-age(from, to)
 
 #### from
-Type: Number<br/>
+Type: `Number`<br/>
 Required
 
 #### to
-Type: Number<br/>
+Type: `Number`<br/>
 Required
 
 ## Related
