@@ -10,7 +10,7 @@
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "rnd-date": "^0.0.1"
+    "rnd-date": "^1.0.0"
   },
   "scripts": {
     "test": "xo && ava"
